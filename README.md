@@ -24,8 +24,8 @@ Procurement Co-op Intern @ Bombardier Business Aircraft (September 2017 - Decemb
 2 month capstone project working with a not-for-profit organization on a data analytics solution
 Tools used: fully on google:
 - Google docs for documentation: [documentation how-to manual can be found here](assignments-projects/Innovation-Youth-Capstone/Documentation.docx)
-- Google sheets for data collection and dashboarding: [data collection can be found here](assignments-projects/Innovation-Youth-Capstone/MAIN FARMER_S MARKET.xlsx) [dashboard can be found here](assignments-projects/Innovation-Youth-Capstone/DASHBOARD.xlsx)
+- Google sheets for data collection and dashboarding: [data collection can be found here](assignments-projects/Innovation-Youth-Capstone/MAIN_FARMERS_MARKET.xlsx) [dashboard can be found here](assignments-projects/Innovation-Youth-Capstone/DASHBOARD.xlsx)
 - Google collab for forecasting and optimization models using python: [code can be found here](assignments-projects/Innovation-Youth-Capstone/Code.ipynb)
 
-[Submission report can be found here](assignments-projects/Innovation-Youth-Capstone/InnovationYouth_Final Solution Report.pdf)
+[Submission report can be found here](assignments-projects/Innovation-Youth-Capstone/InnovationYouth_Final_Solution_Report.pdf)
 [All files here](assignments-projects/Innovation-Youth-Capstone)
