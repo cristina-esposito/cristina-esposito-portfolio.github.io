@@ -20,3 +20,4 @@ Master Data Technician @ McGill University Health Centre (MUHC)
 Procurement Co-op Intern @ Bombardier Business Aircraft (September 2017 - December 2017)
 
 ### Data Science Assignments and Projects
+[test link to folder](assignments-projects/Innovation-Youth-Capstone)
