@@ -46,4 +46,5 @@ _Models Used_:
 - Multiple linear regression
 
 [Submission report can be found here](assignments-projects/Innovation-Youth-Capstone/InnovationYouth_Final_Solution_Report.pdf)
+
 [All files here](assignments-projects/Innovation-Youth-Capstone)
