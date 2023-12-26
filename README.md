@@ -20,8 +20,23 @@ Master Data Technician @ McGill University Health Centre (MUHC)
 Procurement Co-op Intern @ Bombardier Business Aircraft (September 2017 - December 2017)
 
 ### Data Science Assignments and Projects
-#### Innovation Youth Capstone project
-2 month capstone project working with a not-for-profit organization on a data analytics solution.
+
+#### McKesson Canada Capstone Project
+8 month consulting capstone project in a team of 5-6 to solve 2 analytics use cases:
+
+_Use Case 1: Automated Reporting_
+
+
+_Use Case 2: Exploring Neural Network Models for Product Demand Forecasting_
+
+
+
+*Note: As this project contains data/information owned by the Company, it cannot be shared publicly 
+
+
+
+#### Innovation Youth Capstone Project
+2 month consulting capstone project working with a not-for-profit organization on a data analytics solution.
 
 _Objective_: Develop a forecast modelling framework that would allow Innovation Youth to be able to predict how much produce to buy for the bi-weekly solidarity farmer's markets that could be used to make better ordering decisions to reduce left-overs, waste, and better manage costs.
 
@@ -48,3 +63,50 @@ _Models Used_:
 [Submission report can be found here](assignments-projects/Innovation-Youth-Capstone/InnovationYouth_Final_Solution_Report.pdf)
 
 [All files here](assignments-projects/Innovation-Youth-Capstone)
+
+
+#### Neural Networks - GANS for internet pictures
+
+
+
+#### Black Lives Matter vs. Blue Lives Matter Social Media Movements - A Social Media Network Analysis (INSY 670 Social Media Analytics)
+
+
+#### Post Interactions Analysis - What makes a post engaging? (MRKT 671)
+
+
+#### Hypothesis Testing Uber Wait Times (MRKT 671)
+
+
+#### Hypothesis Testing effectiveness of coupons, demographics, target marketing (MRKT 671)
+
+
+
+#### Predicting Emergency Room wait times (INSY 672)
+
+
+
+#### Car Brand Analysis - webscraping and topic modelling (INSY 669)
+
+
+#### Optimization model using integer programming for NFL scheduling (MGSC 662)
+
+
+
+### Optimization model using integer programming for NFL scheduling (INSY 669)
+
+
+
+### Predict the success of a movie (MGSC 661)
+
+
+
+#### Predict what makes a good chocolate (MGSC 661)
+
+
+
+
+#### Building a database and queries for an amusement park (INSY 661)
+
+
+#### building a database and queries for a dating site (INSY 661)
