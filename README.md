@@ -1,4 +1,4 @@
-# Data Scientist
+
 
 ### Education
 Bachelor of Commerce Major in Supply Chain Operations Management Minor in Data Intelligence @ Concordia University
