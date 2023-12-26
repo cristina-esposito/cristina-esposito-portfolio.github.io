@@ -13,8 +13,9 @@ Master of Management in Analytics | McGill University (August 2022)
 Forecast Analyst @ Abbvie (June 2022 - Present)
 
 Master Data Technician @ McGill University Health Centre (MUHC) 
-- Co-op internship (May 2018 - January 2019)
 - Full-time (January 2019 - July 2021)
+- Co-op internship (May 2018 - January 2019)
+
 
 Procurement Co-op Intern @ Bombardier Business Aircraft (September 2017 - December 2017)
 
