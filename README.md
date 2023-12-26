@@ -20,4 +20,10 @@ Master Data Technician @ McGill University Health Centre (MUHC)
 Procurement Co-op Intern @ Bombardier Business Aircraft (September 2017 - December 2017)
 
 ### Data Science Assignments and Projects
-[test link to folder](assignments-projects/Innovation-Youth-Capstone)
+#### Innovation Youth Capstone project
+2 month capstone project working with a not-for-profit organization on a data analytics solution
+Tools used: fully on google:
+- docs for documentation
+- sheets for data collection and dashboarding
+- collab for forecasting and optimization models using python
+[All files here](assignments-projects/Innovation-Youth-Capstone)
