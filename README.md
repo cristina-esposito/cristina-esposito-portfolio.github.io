@@ -156,16 +156,7 @@ _Models Used_:
 
 
 
-### Optimization model using integer programming for NFL scheduling (INSY 669)
-
-
-
-### Predict the success of a movie (MGSC 661)
-
-
-
 #### Predict what makes a good chocolate (MGSC 661)
-
 
 
 
