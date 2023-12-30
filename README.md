@@ -98,7 +98,7 @@ Modelling Process:
 
 ![UC2 NN framework](assignments-projects/McKesson-Capstone/NN_Model_framework.PNG)
 
-![UC2 NN results](assignments-projects/McKesson-Capstone/NN_model_results.PNG)
+![UC2 NN Results](assignments-projects/McKesson-Capstone/NN_model_results.PNG)
 
 
 
