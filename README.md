@@ -96,6 +96,11 @@ Modelling Process:
 6. Reporting results --> besides reporting the best model according to lowest RMSE, we also reported the MAPE (easy to comprehend measurement), run-time (want to see how heavy the process is to run the NNs), back tested results, and forecasted results
 
 
+![UC2 NN framework](assignments-projects/McKesson-Capstone/NN_Model_framework.PNG)
+
+![UC2 NN results](assignments-projects/McKesson-Capstone/NN_model_results.PNG)
+
+
 
 
 _*Note: As this project contains data/information owned by the Company, it cannot be shared publicly_
