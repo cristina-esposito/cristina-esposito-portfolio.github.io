@@ -58,6 +58,10 @@ Estimated value/benefit gained from proposed solution:
 - Cost savings from manual effors and reduction in errors
 
 
+![UC1 Architecture](assignments-projects/McKesson-Capstone/UC1_ARCHITECTURE.PNG)
+
+
+
 _Use Case 2: Exploring Neural Network Models for Sales Forecasting_
 Objective: Explore more advanced forecasting models that could potentially outperform existing models and provide more accurate forecasts
 
