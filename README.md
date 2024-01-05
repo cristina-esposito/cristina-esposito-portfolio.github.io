@@ -144,32 +144,56 @@ _Models Used_:
 #### Black Lives Matter vs. Blue Lives Matter Social Media Movements - A Social Media Network Analysis (INSY 670 Social Media Analytics)
 
 
-#### Post Interactions Analysis - What makes a post engaging? (MRKT 671)
-
-
-#### Hypothesis Testing Uber Wait Times (MRKT 671)
-
-
-#### Hypothesis Testing effectiveness of coupons, demographics, target marketing (MRKT 671)
 
 
 
-#### Predicting Emergency Room wait times (INSY 672)
+#### Predicting Emergency Room wait times (INSY 672 Healthcare Analytics)
+
+_Goal_: Build a model that accurately predicts the wait time for an emergency room.
+_Tools used_: RStudio, R programming language
+
+[Final report](assignments-projects/INSY672_Emergencyroom/Group11_Report.pdf)
+[R code](
+
+#### Car Brand Analysis - webscraping and topic modelling (INSY 669 Text Analytics)
 
 
 
-#### Car Brand Analysis - webscraping and topic modelling (INSY 669)
+
+#### Optimization model using integer programming for NFL team scheduling (MGSC 662 Decision Analytics)
+
+_Goal_: Solve an integer programming scheduling problem for the Seattle Seahawks
+_Tools used_: Python, Gurobi optimization package, Jupyter Notebook
+
+[Final presentation](assignments-projects/MGSC662_NFL_optimization_schedule/seattle_seahawks_scheduling_presentation.pdf)
+[Final report](assignments-projects/MGSC662_NFL_optimization_schedule/GROUP10_FINALREPORT_MGSC662.docx)
+[Python code](assignments-projects/MGSC662_NFL_optimization_schedule/GROUP10_SEATTLE_SEAHAWKS_SCHEDULES.ipynb)
+
+#### Predict what makes a good chocolate (MGSC 661 Multivariate Statistical Analysis)
+
+_Goal_: Demonstrate the application of machine learning models using R
+_Tools used_: RStudio, R programming language
+
+[Final report](assignments-projects/MGSC661_chocolate_report/chocolate_report.pdf)
+[R code](assignments-projects/MGSC661_chocolate_report/CODE_FINAL_PROJECT_MGSC_661_ALSAMURAEE_ESPOSITO.R)
 
 
-#### Optimization model using integer programming for NFL scheduling (MGSC 662)
+#### "La Ronde" Amusement Park database and SQL queries for business questions (INSY 661 Data and Distributed Systems for Analytics)
+
+_Goal_: Build a database for a Montreal amusement park in MySQL workbench and develop SQL queries to demonstrate database design, functionality, and answer simple business questions
+_Tools used_: MySQL workbench, SQL language
+
+[Final report](assignments-projects/INSY669/Laronde_database/260744222_Cristina_Esposito_IndividualProject.pdf)
+[SQL tables, inserts, and queries](assignments-projects/INSY669/Laronde_database/260744222_CristinaEsposito_Final_DDL_with_tables_inserts_queries.sql)
 
 
 
-#### Predict what makes a good chocolate (MGSC 661)
+#### Dating App database and queries in SQL (INSY 661 Data and Distributed Systems for Analytics)
+
+_Goal_: Build a database for Bumble dating app that stores information on users, matches, etc in MySQL workbench, along with SQL queries to demonstrate database design, functionality, and answer business questions
+_Tools used_: MySQL workbench, SQL language
+
+[Final report](assignments-projects/INSY669/DatingApp_database/Group8_Final_report.pdf)
+[SQL tables, inserts, and queries](assignments-projects/INSY669/DatingApp_database/GROUP8_DDL_with_create_table_statements_insert_statements_queries.sql)
 
 
-
-#### Building a database and queries for an amusement park (INSY 661)
-
-
-#### building a database and queries for a dating site (INSY 661)
