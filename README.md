@@ -5,14 +5,14 @@ Master of Management in Analytics | McGill University (August 2022)
 
 Bachelor of Commerce Major in Supply Chain Operations Management Minor in Data Intelligence | Concordia University (December 2019)
 - Co-op internship program
-- SAS Certfication in Business Analytics and Data Science
+- SAS Certification in Business Analytics and Data Science
 - Team member on the John Molson Supply Chain and Business Technology Management Association
 - Supply Chain Capstone Project - improving the receiving area of the Glen Hospital using business process re-engineering
 
 ### Work Experience
 Forecast Analyst @ Abbvie (June 2022 - Present)
 - Help drive brand commercial success for the Immunology portfolio through communicating insights derived from market data and interpret market trends in a way that helps AbbVie Canada make more strategic business decisions. 
-- Work in partnership with the Finance team to deliver monthly, annual and long-range financial forecasts and with Business Unit and Brand Managers, to address the needs and identify opportunities for improved brand performance.
+- Work in partnership with the Finance team to deliver monthly, annual, and long-range financial forecasts and with Business Unit and Brand Managers, to address the needs and identify opportunities for improved brand performance.
 - Analyze complex business problems and issues using data from internal and external sources and provide perspective and insights on issues/opportunities.
 
 Master Data Technician @ McGill University Health Centre (MUHC) 
@@ -32,7 +32,7 @@ Procurement Co-op Intern @ Bombardier Business Aircraft (September 2017 - Decemb
 
 #### McKesson Canada Capstone Project
 (September 2021 - April 2022)
-8 month consulting capstone project for the Master of Management Analytics Program in partnership with McKesson Canada
+8-month consulting capstone project for the Master of Management Analytics Program in partnership with McKesson Canada
 
 **Role**: Data Scientist team lead with focus on UX/UI, managed a team of 6 individuals (2 data engineers, 2 modelers, 1 strategist, 1 UX/UI designer) to solve 2 analytics use cases through proof of concepts
 
@@ -55,7 +55,7 @@ Tools used for the solution:
 
 Estimated value/benefit gained from proposed solution:
 - Saving +500 hours/year
-- Cost savings from manual effors and reduction in errors
+- Cost savings from manual efforts and reduction in errors
 
 
 ![UC1 Architecture](assignments-projects/McKesson-Capstone/UC1_ARCHITECTURE.PNG)
@@ -108,13 +108,13 @@ _*Note: As this project contains data/information owned by the Company, it canno
 
 
 #### Innovation Youth Capstone Project
-2 month consulting capstone project working with a not-for-profit organization on a data analytics solution.
+2-month consulting capstone project working with a not-for-profit organization on a data analytics solution.
 
 _Objective_: Develop a forecast modelling framework that would allow Innovation Youth to be able to predict how much produce to buy for the bi-weekly solidarity farmer's markets that could be used to make better ordering decisions to reduce left-overs, waste, and better manage costs.
 
 _Data used_:
 - Internal data: invoices, attendee tracking sheet, sales data
-- Additional/external data: synthetic data for proof of concept demonstration, seasonal produce guide, weather data
+- Additional/external data: synthetic data for proof-of-concept demonstration, seasonal produce guide, weather data
 
 _Tools used_ - google suite:
 - Google docs for documentation: [documentation how-to manual can be found here](assignments-projects/Innovation-Youth-Capstone/Documentation.docx)
@@ -143,16 +143,16 @@ _Goal_: Demonstrate the use of PGGAN to generate images learned from image datas
 
 _Tools used_: Google collab, Python coding language
 
-[Article](assignments-projects/MGSC695_PGGAN/Medium Article.docx)
+[Article](assignments-projects/MGSC695_PGGAN/Medium_Article.docx)
 
 [Python code](assignments-projects/MGSC695_PGGAN/PGGAN_&_Cats.ipynb)
 
 
 #### Black Lives Matter vs. Blue Lives Matter Social Media Movements - A Social Media Network Analysis (INSY 670 Social Media Analytics)
 
-_Goal_:
+_Goal_: Examine people's stance on the black lives matter vs. blue lives matter movements, and how they varied across time
 
-_Tools used_:
+_Tools used_: Jupyter notebook, Python coding language
 
 [Powerpoint presentation](assignments-projects/INSY670_BlackLivesMatter_TextAnalysis/BLM_project.pdf)
 
@@ -166,7 +166,7 @@ _Tools used_:
 
 _Goal_: Build a model that accurately predicts the wait time for an emergency room.
 
-_Tools used_: RStudio, R programming language
+_Tools used_: RStudio, R programming language, NodeXL for network visualization, Bot Sentinel to detect bot accounts, Google's Perspective API for toxicity score
 
 [Final report](assignments-projects/INSY672_Emergencyroom/Group11_Report.pdf)
 
