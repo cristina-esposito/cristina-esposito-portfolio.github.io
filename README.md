@@ -139,11 +139,26 @@ _Models Used_:
 
 #### Neural Networks - GANS for internet pictures
 
+_Goal_: Demonstrate the use of PGGAN to generate images learned from image datasets
+
+_Tools used_: Google collab, Python coding language
+
+[Article](assignments-projects/MGSC695_PGGAN/Medium Article.docx)
+
+[Python code](assignments-projects/MGSC695_PGGAN/PGGAN_&_Cats.ipynb)
 
 
 #### Black Lives Matter vs. Blue Lives Matter Social Media Movements - A Social Media Network Analysis (INSY 670 Social Media Analytics)
 
+_Goal_:
 
+_Tools used_:
+
+[Powerpoint presentation](assignments-projects/INSY670_BlackLivesMatter_TextAnalysis/BLM_project.pdf)
+
+[Report](assignments-projects/INSY670_BlackLivesMatter_TextAnalysis/FINAL_REPORT_BlackLivesMatter.pdf)
+
+[Full project with python code](assignments-projects/INSY670_BlackLivesMatter_TextAnalysis)
 
 
 
@@ -155,10 +170,7 @@ _Tools used_: RStudio, R programming language
 
 [Final report](assignments-projects/INSY672_Emergencyroom/Group11_Report.pdf)
 
-[R code](
-
-#### Car Brand Analysis - webscraping and topic modelling (INSY 669 Text Analytics)
-
+[R code](assignments-projects/INSY672_Emergencyroom/team11.R)
 
 
 
@@ -172,6 +184,7 @@ _Tools used_: Python, Gurobi optimization package, Jupyter Notebook
 
 [Final report](assignments-projects/MGSC662_NFL_optimization_schedule/GROUP10_FINALREPORT_MGSC662.docx)
 [Python code](assignments-projects/MGSC662_NFL_optimization_schedule/GROUP10_SEATTLE_SEAHAWKS_SCHEDULES.ipynb)
+
 
 #### Predict what makes a good chocolate (MGSC 661 Multivariate Statistical Analysis)
 
